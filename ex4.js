@@ -7,8 +7,9 @@
  */
 let estudiante = {
     nombre: "Edu",
-    conocimientos: [],
+    conocimientos: ["HTML"],
     aprender: function (nuevoConocimiento) {
+        Lenguaje = "HTML"
         // una línia de código
     }
 
